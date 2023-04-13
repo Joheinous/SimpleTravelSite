@@ -1,29 +1,25 @@
 html {
-    background-color: navajowhite;
-    
+  background-color: navajowhite;
 }
 
 h1 {
-color:navy;
-
+  color: navy;
 }
 
 .navi {
-    font-size: 1.4em;
-
+  font-size: 1.4em;
 }
 
-table, th, td {
-    padding: 10px 10px 10px 10px;
-    border: 1px solid black;
-    border-collapse:collapse;
-    text-align: center;
-  }
+table,
+th,
+td {
+  padding: 10px 10px 10px 10px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
 
 .paddingish {
-
-padding: 10px 10px 10px 10px;
-margin: 10px 10px 10px 10px;
-
-
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
 }
