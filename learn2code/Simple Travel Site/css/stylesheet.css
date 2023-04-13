@@ -23,3 +23,7 @@ td {
   padding: 10px 10px 10px 10px;
   margin: 10px 10px 10px 10px;
 }
+
+p {
+  font-family: 'Garamond', sans-serif, serif;
+}
