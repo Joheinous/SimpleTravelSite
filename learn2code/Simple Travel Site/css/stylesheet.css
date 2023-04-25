@@ -25,5 +25,13 @@ td {
 }
 
 p {
-  font-family: 'Garamond', sans-serif, serif;
+  font-family: "Garamond", sans-serif, serif;
+}
+
+footer {
+  margin-top: 5em;
+}
+
+#message {
+  background-color: lightcyan;
 }
